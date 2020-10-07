@@ -59,22 +59,22 @@ L'objectif est d'identifier des protéines par spectrométrie de masse
 ##### L’identification des protéines/ peptides se réalise grâce à une base de données de protéines. Quelle comparaison va être effectuée?
 
 ```
-
+On va comparer nos data expérimentales (d'un point de vue peptide) au protéome qu'on va télécharger sur uniprot
 ```
 
 ##### Existe t’il d’autres types de bases de données pour réaliser l’identification des peptides trypsiques dans un spectre?
 
 ```
-
+Librairies spectrales
 ```
 
 ##### Est-ce qu’il est possible d’identifier des peptides sans base de données?
 ```
-
+Oui
 ```
 ##### Combien de protéines sont identifiées dans le protéome bactérien?
 ```
-
+4391
 ```
 ##### Comment la liste des séquences des protéines est-elle établie ? Est-elle complète? 
 ```
@@ -86,7 +86,7 @@ L'objectif est d'identifier des protéines par spectrométrie de masse
 ```
 ##### A quoi correspond la protéine P00761 et quelle est sa fonction ? 
 ```
-
+C'est la Trypsine
 ```
 ##### Pourquoi doit-on rajouter cette protéine dans le fichier FASTA final du protéome bactérien?
 ```
