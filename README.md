@@ -37,7 +37,7 @@ Cette partie du TP est découpée en 4 grandes parties avec pour chacune des par
 ##### En quoi consiste l’approche Shotgun proteomics?
 
 ```
-
+L'approche Shotgun proteomics consiste 
 ```
 
 ##### Quel est l’objectif de cette approche ?
